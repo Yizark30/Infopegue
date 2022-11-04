@@ -1,0 +1,276 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		respuestas_de_la_empresa_al_cliente
+	 *	@date 		Friday 04th of November 2022 03:56:42 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/crud_de_ofertas" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_crud_de_ofertas_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<TextView android:id="@+id/crud_de_ofertas_ek3"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="44sp"
+					android:textColor="@color/vista_de_respuestas_color"
+					android:layout_marginLeft="3dp"
+					android:layout_marginTop="76dp"
+					android:layout_width="367dp"
+					android:layout_height="94dp"
+					android:text="@string/crud_de_ofertas_ek3_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/group_8"
+					android:layout_marginTop="331dp"
+					android:layout_marginStart="41dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_3_ek4"
+						android:background="@drawable/rectangle_3_ek4_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="278dp"
+						android:layout_height="69dp" />
+
+					<TextView android:id="@+id/ofertas_planteadas"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="12sp"
+						android:textColor="@color/vista_de_respuestas_color"
+						android:layout_marginLeft="16dp"
+						android:layout_marginTop="23dp"
+						android:layout_width="252dp"
+						android:layout_height="41dp"
+						android:text="@string/ofertas_planteadas_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_9"
+					android:layout_marginTop="412dp"
+					android:layout_marginStart="41dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_3_ek5"
+						android:background="@drawable/rectangle_3_ek5_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="278dp"
+						android:layout_height="69dp" />
+
+					<TextView android:id="@+id/ofertas_planteadas_ek1"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="12sp"
+						android:textColor="@color/vista_de_respuestas_color"
+						android:layout_marginLeft="16dp"
+						android:layout_marginTop="23dp"
+						android:layout_width="252dp"
+						android:layout_height="41dp"
+						android:text="@string/ofertas_planteadas_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_4_ek2"
+					android:layout_marginTop="701dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_6_ek6"
+						android:background="@drawable/rectangle_6_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="360dp"
+						android:layout_height="99dp" />
+
+					<ImageView android:id="@+id/_image_6_ek4"
+						android:src="@drawable/_image_6_ek4"
+						android:contentDescription="_image_6_ek4"
+						 android:layout_marginStart="146dp"
+						android:layout_marginTop="14dp"
+						android:layout_width="68dp"
+						android:layout_height="63dp" />
+
+					<ImageView android:id="@+id/_avatar_1_ek4"
+						android:src="@drawable/_avatar_1_ek4"
+						android:contentDescription="_avatar_1_ek4"
+						 android:layout_marginStart="13dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="61dp"
+						android:layout_height="64dp" />
+
+					<ImageView android:id="@+id/_image_5_ek5"
+						android:src="@drawable/_image_5_ek5"
+						android:contentDescription="_image_5_ek5"
+						 android:layout_marginStart="263dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="97.35dp"
+						android:layout_height="64dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_6"
+					android:layout_marginTop="232dp"
+					android:layout_marginStart="38dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/informacion_de_las_ofertas"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="12sp"
+						android:textColor="@color/vista_de_respuestas_color"
+						android:layout_marginLeft="46dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="212dp"
+						android:layout_height="34dp"
+						android:text="@string/informacion_de_las_ofertas_string"
+						 />
+
+					<View   android:id="@+id/line_16"
+						android:background="@drawable/line_16_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="13dp"
+						android:layout_width="284dp"
+						android:layout_height="1dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_7"
+					android:layout_marginTop="268dp"
+					android:layout_marginStart="38dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/informacion_de_las_ofertas_ek1"
+						android:fontFamily="Inter"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="12sp"
+						android:textColor="@color/vista_de_respuestas_color"
+						android:layout_marginLeft="46dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="212dp"
+						android:layout_height="34dp"
+						android:text="@string/informacion_de_las_ofertas_ek1_string"
+						 />
+
+					<View   android:id="@+id/line_16_ek1"
+						android:background="@drawable/line_16_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="13dp"
+						android:layout_width="284dp"
+						android:layout_height="1dp" />
+
+
+					<RelativeLayout android:id="@+id/group_6_ek1"
+						android:layout_marginTop="36dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/informacion_de_las_ofertas_ek2"
+							android:fontFamily="Inter"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textSize="12sp"
+							android:textColor="@color/vista_de_respuestas_color"
+							android:layout_marginLeft="46dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="212dp"
+							android:layout_height="34dp"
+							android:text="@string/informacion_de_las_ofertas_ek2_string"
+							 />
+
+						<View   android:id="@+id/line_16_ek2"
+							android:background="@drawable/line_16_ek2_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="13dp"
+							android:layout_width="284dp"
+							android:layout_height="1dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/borrar_1"
+					android:src="@drawable/borrar_1"
+					android:contentDescription="borrar_1"
+					 android:layout_marginStart="66dp"
+					android:layout_marginTop="514dp"
+					android:layout_width="39dp"
+					android:layout_height="42dp" />
+
+				<ImageView android:id="@+id/lapiz_1"
+					android:src="@drawable/lapiz_1"
+					android:contentDescription="lapiz_1"
+					 android:layout_marginStart="254dp"
+					android:layout_marginTop="514dp"
+					android:layout_width="47dp"
+					android:layout_height="42dp" />
+
+				<ImageView android:id="@+id/limpiar_1"
+					android:src="@drawable/limpiar_1"
+					android:contentDescription="limpiar_1"
+					 android:layout_marginStart="157dp"
+					android:layout_marginTop="514dp"
+					android:layout_width="46dp"
+					android:layout_height="42dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

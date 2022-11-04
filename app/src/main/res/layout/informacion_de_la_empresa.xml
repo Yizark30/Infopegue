@@ -1,0 +1,138 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		respuestas_de_la_empresa_al_cliente
+	 *	@date 		Friday 04th of November 2022 03:56:42 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/informacion_de_la_empresa" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_informacion_de_la_empresa_ek2"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__informacion_de_la_empresa_ek3"
+					android:background="@drawable/_bg__informacion_de_la_empresa_ek3_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+				<View   android:id="@+id/rectangle_4_ek4"
+					android:background="@drawable/rectangle_4_ek4_shape"
+					 android:layout_marginStart="1dp"
+					android:layout_marginTop="224dp"
+					android:layout_width="360dp"
+					android:layout_height="648dp" />
+
+				<TextView android:id="@+id/registro_de_informaci_n_personal_de_la_empresa"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/vista_de_respuestas_color"
+					android:layout_marginLeft="6dp"
+					android:layout_marginTop="76dp"
+					android:layout_width="357dp"
+					android:layout_height="80dp"
+					android:text="@string/registro_de_informaci_n_personal_de_la_empresa_string"
+					 />
+
+				<TextView android:id="@+id/informacion_ek1"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="12sp"
+					android:textColor="@color/vista_de_respuestas_color"
+					android:layout_marginLeft="39dp"
+					android:layout_marginTop="327dp"
+					android:layout_width="199dp"
+					android:layout_height="48dp"
+					android:text="@string/informacion_ek1_string"
+					 />
+
+				<TextView android:id="@+id/nombre__empresa__ubicacion_bla_bla_bla"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="12sp"
+					android:textColor="@color/vista_de_respuestas_color"
+					android:layout_marginLeft="85dp"
+					android:layout_marginTop="375dp"
+					android:layout_width="199dp"
+					android:layout_height="48dp"
+					android:text="@string/nombre__empresa__ubicacion_bla_bla_bla_string"
+					 />
+
+				<TextView android:id="@+id/mas_informacion_de_la_empresa"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="12sp"
+					android:textColor="@color/vista_de_respuestas_color"
+					android:layout_marginLeft="84dp"
+					android:layout_marginTop="492dp"
+					android:layout_width="199dp"
+					android:layout_height="78dp"
+					android:text="@string/mas_informacion_de_la_empresa_string"
+					 />
+
+				<ImageView android:id="@+id/_image_2_ek1"
+					android:src="@drawable/_image_2_ek1"
+					android:contentDescription="_image_2_ek1"
+					 android:layout_marginStart="248dp"
+					android:layout_marginTop="659dp"
+					android:layout_width="54dp"
+					android:layout_height="48dp" />
+
+				<ImageView android:id="@+id/camara_1_ek1"
+					android:src="@drawable/camara_1_ek1"
+					android:contentDescription="camara_1_ek1"
+					 android:layout_marginStart="124dp"
+					android:layout_marginTop="186dp"
+					android:layout_width="105dp"
+					android:layout_height="108dp" />
+
+				<ImageView android:id="@+id/_flecha_1_ek1"
+					android:src="@drawable/_flecha_1_ek1"
+					android:contentDescription="_flecha_1_ek1"
+					 android:layout_marginStart="10dp"
+					android:layout_marginTop="7dp"
+					android:layout_width="28dp"
+					android:layout_height="20dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

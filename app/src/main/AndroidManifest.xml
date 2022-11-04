@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.figma" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".respuestas_de_la_empresa_al_cliente_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"
+		android:exported="true"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.figma.informacion_de_una_propuesta_activity"></activity>
+			<activity android:name="exportkit.figma.visor_de_las_propuestas_activity"></activity>
+			<activity android:name="exportkit.figma.informacion_del_empleado_activity"></activity>
+			<activity android:name="exportkit.figma.solicitudes_de_empleado_activity"></activity>
+			<activity android:name="exportkit.figma.crud_de_ofertas_activity"></activity>
+			<activity android:name="exportkit.figma.creador_de_nueva_oferta_activity"></activity>
+			<activity android:name="exportkit.figma.propuestas_de_la_empresa_activity"></activity>
+			<activity android:name="exportkit.figma.pantalla_login_empresa_activity"></activity>
+			<activity android:name="exportkit.figma.pantalla_login_empleado_activity"></activity>
+			<activity android:name="exportkit.figma.informacion_de_la_empresa_activity"></activity>
+			<activity android:name="exportkit.figma.inicio_empresa_activity"></activity>
+			<activity android:name="exportkit.figma.pantalla_de_bienvenida_activity"></activity>
+	</application>
+
+</manifest>
+	
+	
