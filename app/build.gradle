@@ -5,6 +5,9 @@ plugins {
 
 android {
     compileSdk 32
+    buildFeatures{
+        viewBinding true
+    }
 
     defaultConfig {
         applicationId "ni.edu.uca.infopegue20"
@@ -15,6 +18,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
 
     buildTypes {
         release {
